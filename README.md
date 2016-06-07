@@ -16,10 +16,12 @@ JetBrains IntelliJ IDEA Ultimate v15.0.rar 압축을 풀어서 설치하세요.
 
 # 2. Import Project #
 
-IntelliJ를 실행한 후에, Import Project를 선택하고~ 저장소를 Git를 선택한 후에
+IntelliJ를 실행한 후에, Check out from version Control를 선택하고~ 저장소를 Git를 선택한 후에
 아래 url을 입력하세요~
 
 ==> http://github/com/kangsoo/bitmiprj_springboot
+
+그리고, clone을 선택하면 됩니다.
 
 # 참 쉽죠잉? #
 
