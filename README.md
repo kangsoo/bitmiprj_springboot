@@ -2,7 +2,7 @@
 
 Spring Boot를 활용한 간단한 Framework 입니다.
 
-향후 BITFramework이 만들어지면, 관련 Class를 옮길 예정입니ㅏㄷ.
+향후 BITFramework이 만들어지면, 관련 Class를 옮길 예정입니다.
 
 그전까지 이 Framework을 활용해서, 사용하시기 바랍니다.
 
