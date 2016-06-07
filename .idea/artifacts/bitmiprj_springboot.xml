@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bitmiprj_springboot">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/bitmiprj_springboot</output-path>
+    <root id="root" />
+  </artifact>
+</component>
